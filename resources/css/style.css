@@ -10,3 +10,10 @@ button:hover {
   content: "Go to: ";
   font-weight: bold;
 } */
+
+/* p::before {
+  content: "Read this -";
+  background-color: yellow;
+  color: red;
+  font-weight: bold;
+} */
