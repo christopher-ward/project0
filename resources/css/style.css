@@ -6,6 +6,10 @@ button:hover {
   background-color: orange;
 }
 
+#page_contents h3 {
+  padding: 10px;
+}
+
 /* #page_nav a::before {
   content: "Go to: ";
   font-weight: bold;
