@@ -14,6 +14,16 @@ button:hover {
   background-color: lightgray;
 }
 
+#boots1 {
+  width: 25%;
+  height: auto;
+}
+
+#boots1 img {
+  width: 100%;
+  height: auto;
+}
+
 /* #page_nav a::before {
   content: "Go to: ";
   font-weight: bold;
