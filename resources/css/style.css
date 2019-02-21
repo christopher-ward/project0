@@ -10,6 +10,10 @@ button:hover {
   padding: 10px;
 }
 
+.container {
+  background-color: lightgray;
+}
+
 /* #page_nav a::before {
   content: "Go to: ";
   font-weight: bold;
