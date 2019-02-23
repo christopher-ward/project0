@@ -4,10 +4,15 @@ html {
 
 body {
   background-color: #798C53;
+  padding-left: 5%;
 }
 
 a {
   color: #8AB68A;
+}
+
+a:hover {
+  color: #BAD5BA;
 }
 
 h1, h2, h3 {
@@ -34,6 +39,10 @@ button a:hover {
   color: #266726;
 }
 
+#intro_section0 h1, p {
+  width: 78%;
+}
+
 #page_contents h3 {
   padding: 10px;
 }
@@ -43,8 +52,9 @@ button a:hover {
 }
 
 #boots1 {
-  width: 25%;
+  width: 26%;
   height: auto;
+  margin-right: 5%;
 }
 
 #boots1 img {
