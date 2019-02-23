@@ -1,9 +1,37 @@
-/* html {
-  background-color: teal;
-} */
+html {
+  background-color: #546532;
+}
+
+body {
+  background-color: #798C53;
+}
+
+a {
+  color: #8AB68A;
+}
+
+h1, h2, h3 {
+  color: #2C3D0B;
+}
+
+p {
+  color: #43561D
+}
+
+button {
+  background-color: #9EB178;
+}
+
+button a {
+  color: #266726;
+}
 
 button:hover {
-  background-color: orange;
+  background-color: #798C53;
+}
+
+button a:hover {
+  color: #266726;
 }
 
 #page_contents h3 {
@@ -34,4 +62,9 @@ button:hover {
   background-color: yellow;
   color: red;
   font-weight: bold;
+} */
+
+/* p::selection {
+    color: red;
+    background-color: yellow;
 } */
