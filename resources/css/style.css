@@ -19,8 +19,15 @@ h1, h2, h3 {
   color: #2C3D0B;
 }
 
+h1::selection,
+h2::selection,
+h3::selection {
+  color: #679867;
+  background-color: #2B572B;
+}
+
 p {
-  color: #43561D
+  color: #43561D;
 }
 
 button {
@@ -41,6 +48,11 @@ button a:hover {
 
 #intro_section0 h1, p {
   width: 78%;
+}
+
+p::selection {
+  color: #41410C;
+  background-color: #BEBE81;
 }
 
 #page_contents h3 {
