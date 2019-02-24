@@ -74,6 +74,17 @@ p::selection {
   height: auto;
 }
 
+@media (max-width: 499px) {
+  #intro_section0 h1 {
+    width: 90%;
+    font-size: 2.0rem;
+  }
+
+  #boots1 img, #boots1 {
+    display: none;
+  }
+}
+
 /* #page_nav a::before {
   content: "Go to: ";
   font-weight: bold;
