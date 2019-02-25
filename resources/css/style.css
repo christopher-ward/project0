@@ -89,6 +89,21 @@ p::selection {
   width: 100%;
 }
 
+/* #page_4 body {
+  background-color: #BEBE81;
+} */
+
+#page_4 .container {
+  margin-top: 5%;
+  background-color: #9EB178;
+}
+
+.col-lg h3 {
+  color: #2C3D0B;
+}
+
+
+
 /* #page_nav a::before {
   content: "Go to: ";
   font-weight: bold;
