@@ -85,6 +85,10 @@ p::selection {
   }
 }
 
+.col-lg img {
+  width: 100%;
+}
+
 /* #page_nav a::before {
   content: "Go to: ";
   font-weight: bold;
