@@ -59,6 +59,7 @@ p::selection {
   padding: 10px;
 }
 
+/* Turn into sass in inheritance.scss */
 /* #boots1 {
   width: 26%;
   height: auto;
