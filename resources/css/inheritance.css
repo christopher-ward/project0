@@ -1,10 +1,9 @@
-#boots1, #boots1 img {
-  width: 26%;
-  height: auto;
-  margin-right: 5%; }
-
-#boots1 img {
+#boots1, #boots1 img, .thumbnail img {
   width: 100%;
   height: auto; }
+
+#boots1 {
+  width: 26%;
+  margin-right: 5%; }
 
 /*# sourceMappingURL=inheritance.css.map */
