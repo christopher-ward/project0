@@ -1,0 +1,15 @@
+%boots {
+  width: 26%;
+  height: auto;
+  margin-right: 5%;
+}
+
+#boots1 {
+  @extend %boots;
+}
+
+#boots img {
+  @extend %boots;
+  width: 100%;
+  height: auto;
+}
