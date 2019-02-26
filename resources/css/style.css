@@ -59,11 +59,7 @@ p::selection {
   padding: 10px;
 }
 
-.container {
-  background-color: lightgray;
-}
-
-#boots1 {
+/* #boots1 {
   width: 26%;
   height: auto;
   margin-right: 5%;
@@ -72,7 +68,7 @@ p::selection {
 #boots1 img {
   width: 100%;
   height: auto;
-}
+} */
 
 @media (max-width: 499px) {
   #intro_section0 h1 {
