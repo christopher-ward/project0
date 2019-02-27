@@ -106,7 +106,7 @@ th {
   background-color: #BEBE81;
 } */
 
-#page_4 .container {
+#page_4 {
   margin-top: 5%;
   background-color: #9EB178;
 }
@@ -114,22 +114,3 @@ th {
 .col-lg h3 {
   color: #2C3D0B;
 }
-
-
-
-/* #page_nav a::before {
-  content: "Go to: ";
-  font-weight: bold;
-} */
-
-/* p::before {
-  content: "Read this -";
-  background-color: yellow;
-  color: red;
-  font-weight: bold;
-} */
-
-/* p::selection {
-    color: red;
-    background-color: yellow;
-} */

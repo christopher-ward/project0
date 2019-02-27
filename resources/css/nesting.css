@@ -1,4 +1,5 @@
 nav {
+  display: flex;
   justify-content: center; }
   nav button {
     background-color: #9EB178; }
