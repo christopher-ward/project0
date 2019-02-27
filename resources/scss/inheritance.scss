@@ -3,6 +3,11 @@
   height: auto;
 }
 
+%gallery_container {
+  margin-top: 5%;
+  background-color: #9EB178;
+}
+
 #boots1 {
   @extend %boots;
   width: 26%;
@@ -15,4 +20,8 @@
 
 .thumbnail img {
   @extend %boots;
+}
+
+#page_5, #page_6, #page_7 {
+  @extend %gallery_container;
 }

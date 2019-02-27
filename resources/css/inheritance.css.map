@@ -1,7 +1,7 @@
 {
 "version": 3,
-"mappings": "AAAA,oCAAO;EACL,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,IAAI;;AAGd,OAAQ;EAEN,KAAK,EAAE,GAAG;EACV,YAAY,EAAE,EAAE",
-"sources": ["../inheritance.scss"],
+"mappings": "AAAA,oCAAO;EACL,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,IAAI;;AAGd,yBAAmB;EACjB,UAAU,EAAE,EAAE;EACd,gBAAgB,EAAE,OAAO;;AAG3B,OAAQ;EAEN,KAAK,EAAE,GAAG;EACV,YAAY,EAAE,EAAE",
+"sources": ["../scss/inheritance.scss"],
 "names": [],
 "file": "inheritance.css"
 }

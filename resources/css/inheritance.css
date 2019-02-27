@@ -2,6 +2,10 @@
   width: 100%;
   height: auto; }
 
+#page_5, #page_6, #page_7 {
+  margin-top: 5%;
+  background-color: #9EB178; }
+
 #boots1 {
   width: 26%;
   margin-right: 5%; }
