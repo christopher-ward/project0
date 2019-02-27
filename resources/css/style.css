@@ -30,7 +30,7 @@ p {
   color: #43561D;
 }
 
-button {
+/* button {
   background-color: #9EB178;
 }
 
@@ -44,7 +44,7 @@ button:hover {
 
 button a:hover {
   color: #266726;
-}
+} */
 
 #intro_section0 h1, p {
   width: 78%;
@@ -80,6 +80,22 @@ p::selection {
   #boots1 img, #boots1 {
     display: none;
   }
+}
+
+table {
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 50%;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 5px;
+    text-align: center;
+}
+
+th {
+    background-color: lightgray;
 }
 
 .col-lg img {
