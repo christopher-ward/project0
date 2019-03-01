@@ -2,21 +2,21 @@ nav {
   display: flex;
   width: 100%;
 
-  button {
-    width: 100%;
-    background-color: #9EB178;
-  }
-
-  button a {
+  a {
     width: 100%;
     color: #266726;
   }
 
-  button:hover {
+  a button {
+    width: 100%;
+    background-color: #9EB178;
+  }
+
+  a:hover {
     background-color: #798C53;
   }
 
-  button a:hover {
+  a button:hover {
     color: #266726;
   }
 }
