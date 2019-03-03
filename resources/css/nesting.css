@@ -1,15 +1,20 @@
 nav {
   display: flex;
   width: 100%; }
-  nav a {
-    width: 100%;
-    color: #266726; }
-  nav a button {
+  nav button {
+    display: flex;
+    justify-content: center;
+    align-content: center;
     width: 100%;
     background-color: #9EB178; }
-  nav a:hover {
+  nav button a {
+    width: 100%;
+    color: #266726;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem; }
+  nav button:hover {
     background-color: #798C53; }
-  nav a button:hover {
+  nav button a:hover {
     color: #266726; }
 
 /*# sourceMappingURL=nesting.css.map */

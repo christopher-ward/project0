@@ -2,21 +2,26 @@ nav {
   display: flex;
   width: 100%;
 
-  a {
-    width: 100%;
-    color: #266726;
-  }
-
-  a button {
+  button {
+    display: flex;
+    justify-content: center;
+    align-content: center;
     width: 100%;
     background-color: #9EB178;
   }
 
-  a:hover {
+  button a {
+    width: 100%;
+    color: #266726;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+  }
+
+  button:hover {
     background-color: #798C53;
   }
 
-  a button:hover {
+  button a:hover {
     color: #266726;
   }
 }
