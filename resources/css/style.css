@@ -34,22 +34,6 @@ p {
   color: #43561D;
 }
 
-/* button {
-  background-color: #9EB178;
-}
-
-button a {
-  color: #266726;
-}
-
-button:hover {
-  background-color: #798C53;
-}
-
-button a:hover {
-  color: #266726;
-} */
-
 #intro_section0 h1, p {
   width: 78%;
 }
@@ -62,18 +46,6 @@ p::selection {
 #page_contents h3 {
   padding: 10px;
 }
-
-/* Turn into sass in inheritance.scss */
-/* #boots1 {
-  width: 26%;
-  height: auto;
-  margin-right: 5%;
-}
-
-#boots1 img {
-  width: 100%;
-  height: auto;
-} */
 
 @media (max-width: 499px) {
   #intro_section0 h1 {
@@ -105,10 +77,6 @@ th {
 .col-lg img {
   width: 100%;
 }
-
-/* #page_4 body {
-  background-color: #BEBE81;
-} */
 
 .col-lg h3 {
   color: #2C3D0B;
